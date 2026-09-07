@@ -1,0 +1,47 @@
+# REUSE 规范配置文件（取代已弃用的 .reuse/dep5）
+# https://reuse.software/spec-3.3/
+
+version = 1
+
+[[annotations]]
+path = [
+  "src/**",
+  "**/*.json",
+  "**/*.js",
+  "**/*.ts",
+  "**/*.py",
+  "**/*.sh",
+  "Makefile",
+  "**/*.md",
+  ".github/**",
+  "LICENSES/**",
+  "LICENSE",
+  "LICENSE-AGPLv3",
+  "LICENSE-CC-BY-ND",
+]
+SPDX-FileCopyrightText = "2026 <你的名字 / Your Name>"
+SPDX-License-Identifier = "AGPL-3.0-or-later"
+
+[[annotations]]
+path = [
+  "LICENSES/CC-BY-ND-4.0.txt",
+  "assets/**",
+  "**/*.png",
+  "**/*.jpg",
+  "**/*.jpeg",
+  "**/*.svg",
+  "**/*.gif",
+  "**/*.mp3",
+  "**/*.wav",
+  "**/*.ogg",
+  "**/*.flac",
+  "**/*.mp4",
+  "**/*.webm",
+]
+SPDX-FileCopyrightText = "2026 <你的名字 / Your Name>"
+SPDX-License-Identifier = "CC-BY-ND-4.0"
+
+[[annotations]]
+path = ["**/*.sb3"]
+SPDX-FileCopyrightText = "2026 <你的名字 / Your Name>"
+SPDX-License-Identifier = "AGPL-3.0-or-later AND CC-BY-ND-4.0"

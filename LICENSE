@@ -1,0 +1,19 @@
+This repository uses a **dual-licensing** scheme. Different parts of the repository
+are covered by different licenses. The exact boundary is described in the
+"Licensing" section of the README.md file at the repository root.
+
+In short:
+
+  - All source code (the .sb3 project logic, any unpacked .json/.js source,
+    build/test/tooling scripts, and documentation) is licensed under the
+    GNU Affero General Public License, version 3 or any later version
+    (SPDX: AGPL-3.0-or-later). See LICENSE-AGPLv3.
+
+  - All creative/art assets (images, sprites, costumes, sounds, music,
+    recordings, artwork, and other media bundled with the project) are
+    licensed under Creative Commons Attribution-NoDerivatives 4.0
+    International (SPDX: CC-BY-ND-4.0). See LICENSE-CC-BY-ND.
+
+Both license texts are reproduced in full in the files listed above.
+
+SPDX-License-Identifier: AGPL-3.0-or-later AND CC-BY-ND-4.0
