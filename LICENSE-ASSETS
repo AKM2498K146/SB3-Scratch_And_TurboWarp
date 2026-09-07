@@ -1,0 +1,412 @@
+================================================================================
+  ASSETS LICENSE — Creative Commons Attribution-ShareAlike-NetworkServices 4.0
+  (CC BY-SA-NS 4.0)
+
+  ⚠️  STATUS NOTICE (read first)
+  --------------------------------
+  This is NOT an official Creative Commons license. Creative Commons publishes
+  only six license types (BY, BY-SA, BY-ND, BY-NC, BY-NC-SA, BY-NC-ND) and
+  does NOT endorse this "BY-SA-NS" variant. This text is a proposed extension
+  (BY-SA 4.0 + a Network Services clause), provided here as the project's
+  chosen terms. Its legal enforceability has NOT been tested in court.
+
+  The clauses below that treat "GNU AGPL v3 or later" as a Compatible License
+  (Section 5(a)(1)(iii)) are ASSERTED BY THIS PROPOSAL, NOT endorsed by
+  Creative Commons. The official CC compatible-licenses list recognises only
+  the one-way compatibility CC BY-SA 4.0 → GPLv3; it does NOT list AGPLv3.
+  Whether AGPLv3 qualifies here remains an open, untested question.
+
+  → SAFE USE: keep assets under this license SEPARATE from AGPLv3 code, each
+    component obeying its own terms.
+  → MERGED WORK: conveying a single combined work under AGPLv3 relies on the
+    untested premise above. Obtain legal advice before doing so.
+
+  This file governs all creative assets in this project (images, audio, video,
+  3D models, textures, fonts, text content, etc.), as distinct from the source
+  code which is governed by GNU AGPLv3 (see LICENSE).
+================================================================================
+
+----------------------------
+  COPYRIGHT & ATTRIBUTION
+----------------------------
+(Project maintainer: fill in below. For third-party assets, list each author
+ and any required attribution/credit notice.)
+
+  Original assets © <year> <name of author / organization>
+  Additional contributors: <list names and contributions>
+
+  If you incorporate third-party material, attribution must be preserved in
+  the "Attribution" section below and displayed in any credits/notice UI.
+
+----------------------------
+  CC BY-SA-NS 4.0 — FULL TEXT
+----------------------------
+
+Creative Commons Attribution-ShareAlike-NetworkServices 4.0
+International Public License
+
+By exercising the Licensed Rights (defined below), You accept and agree to be
+bound by the terms and conditions of this Creative Commons
+Attribution-ShareAlike-NetworkServices 4.0 International Public License
+("License"). To the extent this License may be interpreted as a contract,
+You are granted the Licensed Rights in consideration of Your acceptance of
+these terms and conditions, and the Licensor grants You such rights in
+consideration of benefits the Licensor receives from making the Licensed
+Material available under these terms and conditions.
+
+Section 1 — Definitions.
+
+  a. "Adapted Material" means material subject to Copyright and Similar
+     Rights that is derived from or based upon the Licensed Material in
+     which the Licensed Material is translated, altered, arranged,
+     transformed, or otherwise modified in a manner requiring permission
+     under the Copyright and Similar Rights held by the Licensor. For
+     purposes of this License, where the Licensed Material is a musical
+     work, performance, or sound recording, the synchronization of the
+     Licensed Material in timed relation with a moving image is an
+     adaptation.
+
+  b. "Additional Permission" means a permission granted by the Licensor
+     that is not otherwise permitted by the terms of this License.
+
+  c. "BY-SA-S" means the Creative Commons Attribution-ShareAlike license
+     (BY-SA) version 4.0 International, available at
+     https://creativecommons.org/licenses/by-sa/4.0/legalcode , together
+     with any adaptations of it approved by Creative Commons.
+
+  d. "Compatible License" means a license listed as compatible under
+     Section 5(a)(1) below. For the avoidance of doubt, this includes
+     GNU AGPL version 3 or later, and any later version of BY-SA-S or of
+     this License.
+
+  e. "Copyright and Similar Rights" means copyright and/or similar,
+     neighboring, or related rights, including, without limitation,
+     performance, broadcast, sound recording, and compilation rights, that
+     apply to the use of the Licensed Material. For purposes of this
+     License, the rights listed in Section 4(b)(i) are not Copyright and
+     Similar Rights.
+
+  f. "Effective Technological Measures" means those measures that, in the
+     absence of proper authority, may not be circumvented under laws
+     fulfilling obligations under Article 11 of the WIPO Copyright Treaty
+     adopted on December 20, 1996, and/or similar international
+     agreements.
+
+  g. "Exceptions and Limitations" means fair use, fair dealing, and/or
+     any other exception or limitation to Copyright and Similar Rights
+     that applies to Your use of the Licensed Material.
+
+  h. "Licensed Material" means the artistic, literary, or scientific work,
+     or software, offered under the terms of this License, including any
+     associated media, documentation, and attribution information.
+
+  i. "Licensed Rights" means the rights granted to You subject to the
+     terms and conditions of this License, limited to all Copyright and
+     Similar Rights that apply to Your use of the Licensed Material and
+     that the Licensor has authority to license.
+
+  j. "Licensor" means the individual(s) or entity(ies) granting rights
+     under this License.
+
+  k. "Network Services" means making the Licensed Material, or a
+     Derivative Work based upon it, available to users remotely through
+     a computer network (including, without limitation, web services,
+     APIs, SaaS, cloud offerings, or similar hosted offerings), such
+     that users may access, view, interact with, or derive value from
+     the material without obtaining a copy of it for local use.
+
+  l. "Notice" means any notice from the Licensor identifying itself as
+     the Licensor and any other information required to be provided
+     under Section 5(c).
+
+  m. "Share" means to provide material to the public by any means or
+     process that requires permission under the Licensed Rights, such
+     as reproduction, public display, public performance, distribution,
+     dissemination, communication, or making available to the public,
+     including in ways that members of the public may access the
+     material from a place and at a time individually chosen by them.
+
+  n. "Source Form" means the preferred form for making modifications to
+     the Licensed Material, including any associated source files,
+     scripts, assets in editable form, and documentation necessary to
+     reproduce the Licensed Material.
+
+  o. "Derivative Work" means a work created by adapting the Licensed
+     Material, or by combining the Licensed Material with other works,
+     in a manner requiring permission under the Copyright and Similar
+     Rights.
+
+  p. "You" (or "Your") means the individual or entity exercising the
+     Licensed Rights under this License. "Your" refers to such
+     individual or entity.
+
+Section 2 — Scope.
+
+  a. License Grant.
+
+     Subject to the terms and conditions of this License, the Licensor
+     hereby grants You a worldwide, royalty-free, non-sublicensable,
+     non-exclusive, irrevocable license to exercise the Licensed Rights
+     in the Licensed Material, including without limitation the rights
+     to:
+
+        i. reproduce and Share the Licensed Material, in whole or in
+           part, including for commercial purposes;
+
+       ii. produce, reproduce, and Share Adapted Material, including
+           for commercial purposes;
+
+      iii. for the avoidance of doubt, where the Licensed Material is a
+           musical work, performance, or sound recording, the Licensor
+           waives or agrees not to assert any "cover version" or
+           "mechanical reproduction" rights in Your jurisdiction, to
+           the extent necessary to allow You to make Adapted Material
+           and Reproduce it.
+
+  b. Exceptions and Limitations. For the avoidance of doubt, this
+     Section 2(a) does not grant You rights in any Exceptions and
+     Limitations.
+
+  c. Term. The term of this License is described in Section 8.
+
+  d. Media and Formats; Technical Modifications Allowed. The Licensor
+     authorizes You to exercise the Licensed Rights in all media and
+     formats now known or hereafter devised, and to make technical
+     modifications necessary to exercise those rights in other media
+     and formats, including those required for accessibility.
+
+  e. Downstream Recipients. Every recipient of the Licensed Material,
+     and of any Derivative Work, automatically receives a license from
+     the Licensor under the same terms and conditions as those granted
+     to You.
+
+  f. No Endorsement. Nothing in this License constitutes or may be
+     construed as permission to assert or imply that You are, or that
+     Your use is, connected with, sponsored, endorsed, or granted
+     official status by the Licensor or others designated in Section
+     5(c).
+
+Section 3 — License Conditions.
+
+Your exercise of the Licensed Rights is expressly conditioned upon Your
+compliance with the following conditions.
+
+  a. Attribution.
+
+     If You Share the Licensed Material (including in modified form),
+     You must:
+
+        i. retain the following if supplied by the Licensor:
+              - identification of the creator(s) of the Licensed
+                Material and any others designated to receive
+                attribution, in any reasonable form requested;
+              - a copyright notice;
+              - a notice that refers to this License;
+              - a disclaimer of warranties;
+              - to the extent reasonably practicable, a URI or link
+                to the Licensed Material;
+
+       ii. indicate if You modified the Licensed Material and retain
+           an indication of any previous modifications; and
+
+      iii. indicate the Licensed Material is licensed under this
+           License, and include the text of, or a URI or link to,
+           this License.
+
+     The credit required by this Section 3(a) may be implemented in
+     any reasonable manner, provided that, for a Derivative Work, at
+     a minimum such credit appears prominently where any comparable
+     authorship credit appears.
+
+  b. ShareAlike.
+
+     In addition to the conditions in Section 3(a), if You Share a
+     Derivative Work, You must license it under a Compatible License
+     (as defined in Section 1(d) and elaborated in Section 5(a)(1)).
+
+  c. Network Services.
+
+     If You exercise any of the Licensed Rights by means of Network
+     Services (as defined in Section 1(k)) — that is, if You make the
+     Licensed Material, or a Derivative Work based upon it, available
+     to users remotely through a computer network — You must:
+
+        i. make the Corresponding Source of Your version available
+           free of charge to all users interacting with it through
+           that network, by providing access to download it from a
+           network server at no charge, through some standard or
+           customary means of facilitating copying of free works; and
+
+       ii. include in that Corresponding Source:
+              - the Licensed Material in Source Form, including any
+                modifications You have made;
+              - any prompts, configuration files, scripts, weights,
+                training data references, build instructions, and
+                other material that would normally be needed to
+                reproduce the output or functionality made available
+                through the Network Services; and
+
+      iii. license such Corresponding Source under a Compatible
+            License, under which You grant recipients the same
+            rights as are granted to them in respect of the work
+            made available through the Network Services.
+
+     This obligation applies regardless of whether the act of making
+     the material available through Network Services would otherwise
+     constitute "distribution" or "conveyance" under applicable law.
+
+     For the avoidance of doubt, this Section 3(c) does not require
+     You to disclose information that is merely aggregated with the
+     Licensed Material or a Derivative Work, where that aggregation
+     is not itself a Derivative Work.
+
+Section 4 — Sui Generis Database Rights; Waiver of Certain Additional
+            Rights.
+
+  a. Sui Generis Database Rights. Where the Licensed Rights include
+     Sui Generis Database Rights, the Licensor waives or agrees not
+     to assert such rights, subject to the conditions and limitations
+     set forth in this License.
+
+  b. Additional Rights.
+
+     i. Patent and Trademark Rights. This License does not grant any
+        rights in patents, trademarks, or design rights held by the
+        Licensor.
+
+     ii. Moral Rights. To the extent permitted by applicable law, the
+         Licensor waives or agrees not to assert moral rights
+         retained by the Licensor, to the limited extent necessary to
+         allow You to exercise the Licensed Rights.
+
+  c. No Surrender of Others' Freedom. If conditions are imposed on
+     You that contradict the conditions of this License, they do not
+     excuse You from the conditions of this License.
+
+Section 5 — Compatible Licenses; Derivative Works.
+
+  a. Compatible Licenses.
+
+     1. For purposes of Section 3(b) (ShareAlike) and Section 3(c)
+        (Network Services), the following licenses are deemed
+        Compatible Licenses:
+
+           i.   This License (CC BY-SA-NS), version 4.0 or any later
+                version published by the Licensor;
+
+          ii.   BY-SA-S: the Creative Commons Attribution-ShareAlike
+                license, version 4.0 or any later version;
+
+         iii.   GNU AGPL, version 3 or any later version published by
+                the Free Software Foundation.
+
+     2. For the avoidance of doubt, where the Licensed Material is
+        combined with material governed by GNU AGPL version 3 or
+        later into a single combined work, the entire combined work
+        may be conveyed under the terms of the GNU AGPL version 3 or
+        later, provided that the attribution and notice requirements
+        of this License are still honored.
+
+  b. Derivative Works. You may create and Share Derivative Works
+     under the conditions set forth in Section 3, provided that You
+     license any Derivative Work under a Compatible License.
+
+Section 6 — Disclaimer of Warranty.
+
+  UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, THE
+  LICENSOR OFFERS THE LICENSED MATERIAL "AS IS" AND "AS AVAILABLE",
+  AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING
+  THE LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR
+  OTHER. THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF TITLE,
+  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+  NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY,
+  OR THE PRESENCE OR ABSENCE OF ERRORS.
+
+Section 7 — Limitation of Liability.
+
+  TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL THE
+  LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT
+  LIMITATION, NEGLIGENCE) FOR ANY SPECIAL, INCIDENTAL,
+  CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES ARISING OUT OF OR
+  IN CONNECTION WITH THIS LICENSE OR THE USE OF THE LICENSED
+  MATERIAL.
+
+Section 8 — Term and Termination.
+
+  a. This License applies for the term of the Copyright and Similar
+     Rights licensed here. Notwithstanding the above, the Licensor
+     reserves the right to release the Licensed Material under
+     different license terms or to stop distributing it at any time.
+
+  b. Your rights under this License will terminate automatically
+     without notice if You fail to comply with its terms and
+     conditions.
+
+  c. Where Your right to use the Licensed Material has terminated
+     under Section 8(b), it is reinstated:
+
+        i. provisionally, unless and until the Licensor terminates
+           the license explicitly and finally; and
+
+       ii. permanently, if the Licensor fails to notify You of the
+           violation by some reasonable means prior to 60 days after
+           the cessation.
+
+     This Section 8(c) does not restore any rights where the
+     termination was the result of a final judgment finding You to
+     have infringed the Licensed Material.
+
+Section 9 — Miscellaneous.
+
+  a. Each time You Share the Licensed Material or a Derivative Work,
+     the Licensor offers to the recipient a license to the Licensed
+     Material on the same terms and conditions as the license
+     granted to You.
+
+  b. To the extent possible, if any provision of this License is
+     held to be unenforceable, it shall be reformed to the minimum
+     extent necessary to make it enforceable, without affecting the
+     enforceability of the remaining provisions.
+
+  c. No term or condition of this License is waived except by
+     express mutual agreement in writing.
+
+  d. Nothing in this License constitutes a limitation upon, or
+     waiver of, any privileges and immunities applicable to the
+     Licensor.
+
+================================================================================
+  NOTICE (per Section 3(a))
+================================================================================
+
+This project's assets are licensed under CC BY-SA-NS 4.0, with the following
+attribution information:
+
+  Title:        <title of the asset collection / project>
+  Creator:      <name of author>
+  Copyright:    © <year> <name of author / organization>
+  License:      CC BY-SA-NS 4.0 (this file: LICENSE-ASSETS)
+  Source / URI: <URL to the canonical source, if any>
+
+  Attribution requirement (Section 3(a)):
+  "Based on <title> by <creator>, licensed under CC BY-SA-NS 4.0."
+
+  If You Share adaptations or make the material available via Network Services
+  (SaaS / APIs / hosted offerings), You must:
+    1. provide the Corresponding Source (incl. source assets, prompts, configs,
+       scripts, build instructions) free of charge via a public download; and
+    2. license that Corresponding Source under CC BY-SA-NS 4.0, BY-SA 4.0, or
+       GNU AGPL version 3 or later.
+
+--------------------------------------------------------------------------------
+  THIRD-PARTY ASSETS (if any)
+--------------------------------------------------------------------------------
+(List each third-party asset below, with its author, license, and required
+ attribution. Preserve all upstream copyright notices.)
+
+  - <asset name> — © <author>, licensed under <license>; attribution: <text>
+  - <asset name> — © <author>, licensed under <license>; attribution: <text>
+
+================================================================================
+  END OF LICENSE-ASSETS
+================================================================================

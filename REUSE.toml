@@ -1,0 +1,27 @@
+# SPDX / REUSE annotation helper for assets.
+# Format documented at: https://reuse.software/spec/
+# This file is NOT a substitute for LICENSE-ASSETS; it only records the
+# per-file license and copyright notices used by `reuse lint` / `reuse spdx`.
+#
+# NOTE: "CC-BY-SA-NS-4.0" has NO official SPDX identifier (it is not an
+# official CC license), so we declare it as a LicenseRef and keep the full
+# license text in LICENSE-ASSETS.
+
+version = 1
+
+[[annotations]]
+path = "assets/**"
+SPDX-FileCopyrightText = "Copyright © <year> <author>"
+SPDX-License-Identifier = "LicenseRef-CC-BY-SA-NS-4.0"
+
+[[annotations]]
+path = "LICENSE-ASSETS"
+SPDX-FileCopyrightText = "Copyright © <year> <author>"
+SPDX-License-Identifier = "LicenseRef-CC-BY-SA-NS-4.0"
+
+# If you incorporate any third-party assets, add one block per asset and
+# preserve the upstream copyright notice, e.g.:
+# [[annotations]]
+# path = "assets/example.png"
+# SPDX-FileCopyrightText = "Copyright © 2025 Jane Doe"
+# SPDX-License-Identifier = "CC-BY-4.0"
